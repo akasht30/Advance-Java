@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body{
+	background-color:teal;
+}
+#main{
+	padding-top:30px;
+	height:300px;
+	display:flex;
+	align-content:centre;
+	justify-content:space-between;
+}
+
+#form{
+	background-color:silver;
+	height:100%;
+	width:20%;
+	border:2px dotted orange;
+	display:flex;
+	flex-direction:column;
+	align-content:space-around;
+	padding:12px;
+}

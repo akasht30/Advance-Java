@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body{
+	margin: 10px;
+	background-color: silver;
+}
+h2{
+	border: 2px solid green;
+	background-color: yellow;
+}
+#image{
+	
+	display:flex;
+	flex-direction:column;
+	align-content: centre;
+	justify-content:space-around;	
+}
+#input{
+	width:20%;
+	height:auto;
+	display:flex;
+	flex-direction:column;
+	align-content: centre;
+	justify-content:space-around;
+}
+img{
+	height:auto;
+	width:auto;
+	font-style:italic;
+	font-family:'Times New Roman', serif;
+}
+#second{
+	width:80%;
+	height:auto;
+	display:flex;
+	align-content:centre;
+	justify-content:space-around;
+	
+	
+}
